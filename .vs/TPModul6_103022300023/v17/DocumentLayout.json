@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{DF32D7BE-0847-46BB-980D-F0E646F28098}|TPModul6_103022300023\\TPModul6_103022300023.csproj|d:\\tpkpl\\tpmodul6_103022300023\\tpmodul6_103022300023\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF32D7BE-0847-46BB-980D-F0E646F28098}|TPModul6_103022300023\\TPModul6_103022300023.csproj|solutionrelative:tpmodul6_103022300023\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF32D7BE-0847-46BB-980D-F0E646F28098}|TPModul6_103022300023\\TPModul6_103022300023.csproj|d:\\tpkpl\\tpmodul6_103022300023\\tpmodul6_103022300023\\sayatubevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF32D7BE-0847-46BB-980D-F0E646F28098}|TPModul6_103022300023\\TPModul6_103022300023.csproj|solutionrelative:tpmodul6_103022300023\\sayatubevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SayaTubeVideo.cs",
+              "DocumentMoniker": "D:\\TPKpl\\TPModul6_103022300023\\TPModul6_103022300023\\SayaTubeVideo.cs",
+              "RelativeDocumentMoniker": "TPModul6_103022300023\\SayaTubeVideo.cs",
+              "ToolTip": "D:\\TPKpl\\TPModul6_103022300023\\TPModul6_103022300023\\SayaTubeVideo.cs",
+              "RelativeToolTip": "TPModul6_103022300023\\SayaTubeVideo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T13:02:31.803Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "TPModul6_103022300023\\Program.cs",
               "ToolTip": "D:\\TPKpl\\TPModul6_103022300023\\TPModul6_103022300023\\Program.cs",
               "RelativeToolTip": "TPModul6_103022300023\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-23T12:58:59.836Z",
               "EditorCaption": ""
